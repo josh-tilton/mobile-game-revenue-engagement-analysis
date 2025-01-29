@@ -1,4 +1,4 @@
-# 📊 2022 Mobile Game Performance Analysis: Revenue & Player Engagement Trends
+# 📊 Mobile Game Performance Analysis: Revenue & Player Engagement Trends
 
 ## 📌 Overview
 
